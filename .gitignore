@@ -145,4 +145,3 @@ ipch/
 *.e2e
 .cache/
 src/starterai.cpp
-sources.txt

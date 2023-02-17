@@ -1,1 +1,13 @@
-src/starterai.cpp
+src/position.hpp
+src/position.cpp
+src/tile.hpp
+src/tile.cpp
+src/gridinfo.hpp
+src/gridinfo.cpp
+src/grid.hpp
+src/grid.cpp
+src/game.hpp
+src/game.cpp
+src/agent.hpp
+src/agent.cpp
+src/main.cpp
