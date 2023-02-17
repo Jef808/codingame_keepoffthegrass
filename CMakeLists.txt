@@ -4,8 +4,11 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED 20)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-
 add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/src)
+
+enable_testing()
+
+add_subdirectory(tests)
 
 add_custom_target(main_keepoffthegrass_bundled
   ALL

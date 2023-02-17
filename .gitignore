@@ -143,3 +143,6 @@ ipch/
 
 # Visual Studio Trace Files
 *.e2e
+.cache/
+src/starterai.cpp
+sources.txt
